@@ -48,7 +48,7 @@ public class LevelEditor : EditorWindow
         }
         else
         {
-            EditorGUILayout.LabelField("select an item from the lsit");
+            EditorGUILayout.LabelField("select an item from the list");
         }
         EditorGUILayout.EndVertical();
         EditorGUILayout.EndHorizontal();
